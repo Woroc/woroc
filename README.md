@@ -25,14 +25,12 @@
 
 
 
-# Twitter Profile 🐦
+# Twitter Profile 🕸️
 
 ## Profile Stats
 [![Twitter Follow](https://img.shields.io/twitter/follow/wrocis?style=social)](https://twitter.com/wrocis)
 [![Twitter Verified](https://img.shields.io/badge/Verified-Profile-blue?logo=twitter&style=flat)](https://twitter.com/wrocis)
 
-## Activity Metrics
-[![Tweet Stats](https://github-readme-twitter-stats.vercel.app/api?screen_name=wrocis&count_private=true&show_icons=true&theme=radical)](https://twitter.com/wrocis)
 
 
 
