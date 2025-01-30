@@ -1,6 +1,7 @@
-woroc
 
- Developer
+Hi there, I'm Woroc! 👋
+
+
 
 
 ### 🧰 Languages and Tools
@@ -22,4 +23,4 @@ woroc
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-
+![My Animated GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFjeGIzemtnZXczNWRpOXk0ODJqMWo3ZjN1a2E4dGxvZTltajR4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif)
